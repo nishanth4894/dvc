@@ -1,5 +1,5 @@
 '''
-nkdir dvc
+mkdir dvc
 '''
 
 '''
